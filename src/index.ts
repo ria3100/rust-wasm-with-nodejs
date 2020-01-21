@@ -1,6 +1,3 @@
-// import { greeting } from "../crate/pkg";
+import { greeting } from "../crate/pkg/crate";
 
-// console.log(greeting());
-import("../crate/pkg").then(mod => {
-  console.log(mod.greeting());
-});
+console.log(greeting());
