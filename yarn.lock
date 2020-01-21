@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"@types/webassembly-js-api@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@types/webassembly-js-api/-/webassembly-js-api-0.0.2.tgz#43a04bd75fa20332133c6c3986156bfeb4a3ced7"
-  integrity sha512-htlxJRag6RUiMYUkS8Fjup+TMHO0VarpiF9MrqYaGJ0wXtIraQFz40rfA8VIeCiWy8sgpv3RLmigpgicG8fqGA==
-
 "@wasm-tool/wasm-pack-plugin@^0.2.7":
   version "0.2.7"
   resolved "https://registry.yarnpkg.com/@wasm-tool/wasm-pack-plugin/-/wasm-pack-plugin-0.2.7.tgz#116189b57b952de06b8080b0541b860c8eb8824f"
